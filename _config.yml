@@ -1,0 +1,28 @@
+name: Tattoo
+favicon: null
+layout_spectrum: 0.3053559069521725
+typography_spectrum: 0.5476972535252571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9096772868651897
+  lightness: 0.515494286082685
+  saturation: 0.7598513094708323
+  rhythmicContrast: 0.7351167814340442
+purpose: []
