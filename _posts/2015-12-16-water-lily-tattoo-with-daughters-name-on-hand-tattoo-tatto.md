@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/-7u2_xqhBt/?taken-by=illustratedalex'
 title: 'Water lily tattoo with daughters name on hand #tattoo #tattooalex #tattoobyalex #mountainsidetattoovt #vttattooartists #shadedtattoo #handtattoo #lotusblossom #lotus'
-datePublished: '2015-12-19T23:12:16.504Z'
-dateModified: '2015-12-16T16:41:20.545Z'
+datePublished: '2015-12-19T23:12:24.011Z'
+dateModified: '2015-12-19T23:12:16.504Z'
 sourcePath: _posts/2015-12-16-water-lily-tattoo-with-daughters-name-on-hand-tattoo-tatto.md
 published: true
 inFeed: true
